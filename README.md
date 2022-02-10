@@ -8,7 +8,7 @@ I have also written an interpreter and compiler in .NET, which can be found here
 
 FALSE Syntax highlighting.
 
-![feature X](images/false_example.png)
+![feature X](https://raw.githubusercontent.com/MixusMinimax/falseVsCode/main/images/false_example.png)
 
 ## Release Notes
 
