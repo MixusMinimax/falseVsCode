@@ -19,3 +19,7 @@ Initial release of the FALSE language extension
 ### 0.0.2
 
 Add Icon
+
+### 0.0.2
+
+Update Icon
