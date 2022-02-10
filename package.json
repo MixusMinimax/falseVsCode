@@ -2,6 +2,7 @@
     "name": "false",
     "displayName": "false",
     "description": "FALSE",
+    "publisher": "MixusMinimax",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
@@ -21,5 +22,6 @@
             "scopeName": "source.f",
             "path": "./syntaxes/false.tmLanguage.json"
         }]
-    }
+    },
+    "repository": "MixusMinimax/falseVsCode"
 }
