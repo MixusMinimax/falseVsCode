@@ -1,0 +1,25 @@
+{
+    "name": "false",
+    "displayName": "false",
+    "description": "FALSE",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "false",
+            "aliases": ["FALSE", "false"],
+            "extensions": [".f",".false",".F",".FALSE"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "false",
+            "scopeName": "source.f",
+            "path": "./syntaxes/false.tmLanguage.json"
+        }]
+    }
+}
