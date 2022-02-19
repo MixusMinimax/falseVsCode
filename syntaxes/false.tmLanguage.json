@@ -9,9 +9,6 @@
 			"include": "#comments"
 		},
 		{
-			"include": "#keywords"
-		},
-		{
 			"include": "#strings"
 		},
 		{
@@ -39,14 +36,6 @@
 					},
 					"end": "\\}",
 					"name": "comment.block.empty.false"
-				}
-			]
-		},
-		"keywords": {
-			"patterns": [
-				{
-					"name": "keyword.control.false",
-					"match": "\\b(if|while|for|return|cock)\\b"
 				}
 			]
 		},
@@ -97,7 +86,7 @@
 			"patterns": [
 				{
 					"name": "entity.name.function.false",
-					"match": "\\.|,|\\\\|@|:|;|!|\\?|ø|\\$|%|#"
+					"match": "\\.|,|\\\\|@|:|;|!|\\?|ø|\\$|%|#|ß|\\^"
 				}
 			]
 		},

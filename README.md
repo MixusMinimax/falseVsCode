@@ -29,3 +29,7 @@ Update Icon
 ### 0.0.4
 
 Update Readme
+
+### 0.0.5
+
+Add `^` and `ß` because I forgot
